@@ -1,4 +1,4 @@
-##Final year Project
+Final year Project
 <h4>Developed a common platorm which links the medical history of each patient with his/her adhaar card. The entire medical report of the patient from each hospital will be uploaded to a common server.</h4>
 
 <h4> With the help of this patient no longer has to carry the reports each time he visits his/her doctor</h4>
