@@ -1,5 +1,5 @@
 appdirs==1.4.0
-Django==1.10.5
+Django==1.11.29
 django-material==0.12.3
 djangorestframework==3.5.4
 etcpy==0.1
